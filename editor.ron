@@ -1,0 +1,4 @@
+{
+    "persistence::PersistenceSettings": "{\"persistence::PersistenceSettings\":(load_on_startup:true,save_on_close:true)}",
+    "editor_core::hotkeys::HotkeySet<editor::tools::gizmo::GizmoHotkey>": "{\"editor_core::hotkeys::HotkeySet<editor::tools::gizmo::GizmoHotkey>\":(bindings:{Rotate:[R],Translate:[G],Scale:[S],Delete:[X],Clone:[AltLeft],Multiple:[ShiftLeft]},name:\"GizmoHotkey\")}",
+}
